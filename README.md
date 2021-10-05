@@ -20,4 +20,4 @@ git clone https://github.com/ASAD-SHER-06/Asad-Gull-dana.git
 
 cd /Asad-Gull-dana
 
-python2 Asad-x-gull_dana.py
+python2 Asad-gull-dana.py
